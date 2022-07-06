@@ -24,8 +24,7 @@ const App = () => {
         }
 
         useEffect(() => {
-            getAllPokemons()
-                // eslint-disable-next-line
+
         }, [])
 
         return ( <
